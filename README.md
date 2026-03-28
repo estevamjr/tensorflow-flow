@@ -66,21 +66,11 @@ Academic Context: PUC-Rio (Software Engineering) | Postgraduate in Applied AI.
 
 ---
 
-### Próximos Passos para o GitHub:
+🚀 Final Sync (The International Way)
+Here are the commands to update your repository with the finalized English documentation:
 
-1.  **Arquivo `.gitignore`:** Certifique-se de ter um arquivo `.gitignore` na raiz com o conteúdo abaixo para não subir o "lixo" do Windows:
-    ```text
-    node_modules/
-    npm-debug.log*
-    .DS_Store
-    ```
-2.  **Subindo o código:**
-    ```bash
-    git init
-    git add .
-    git commit -m "Initial commit: Tensor-Flow-Flow Architecture"
-    git remote add origin https://github.com/SEU_USUARIO/tensor-flow-flow.git
-    git push -u origin main
-    ```
+git add README.md
 
-**O que achou dessa versão?** Ela posiciona você não apenas como alguém que "copiou um có
+git commit -m "docs: finalized readme in full english for international portfolio"
+
+git push
